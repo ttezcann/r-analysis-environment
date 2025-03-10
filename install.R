@@ -1,1 +1,1 @@
-install.packages("sjPlot")
+install.packages(c("haven", "sjmisc", "sjPlot"))
